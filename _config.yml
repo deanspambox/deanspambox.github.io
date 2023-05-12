@@ -3,3 +3,5 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: DeanBox coding
 description: [A short description of your site's purpose]
+show_downloads: true
+#google_analytics: [Your Google Analytics tracking ID]
