@@ -1,6 +1,7 @@
-remote_theme: pages-themes/hacker@v0.2.0
+# remote_theme: pages-themes/hacker@v0.2.0
+gem "jekyll-text-theme"
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+# - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: t3am
 description: Just like any other site
 show_downloads: false
